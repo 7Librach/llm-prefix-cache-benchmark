@@ -1,0 +1,29 @@
+{
+  "1.5B": {
+    "wilcoxon_W": 1830.0,
+    "wilcoxon_p": 8.147778971559672e-12,
+    "ols_slope_ms_per_tok": 0.10974253176083867,
+    "ols_slope_stderr": 0.00046567732240127214,
+    "ols_intercept_ms": 14.512403980099492,
+    "ols_r2": 0.9989567343686442,
+    "cache_slope_ms_per_tok": 0.0008976684657071786
+  },
+  "3B": {
+    "wilcoxon_W": 1830.0,
+    "wilcoxon_p": 8.147778971559672e-12,
+    "ols_slope_ms_per_tok": 0.21873415622778963,
+    "ols_slope_stderr": 0.0005024510748101202,
+    "ols_intercept_ms": 28.052127363184013,
+    "ols_r2": 0.9996940507098293,
+    "cache_slope_ms_per_tok": 0.0012072855588130774
+  },
+  "7B": {
+    "wilcoxon_W": 1830.0,
+    "wilcoxon_p": 8.147778971559672e-12,
+    "ols_slope_ms_per_tok": 0.4209741793265813,
+    "ols_slope_stderr": 0.0009852005739824715,
+    "ols_intercept_ms": 58.695302985074704,
+    "ols_r2": 0.9996824380568622,
+    "cache_slope_ms_per_tok": 0.00174023243159204
+  }
+}
